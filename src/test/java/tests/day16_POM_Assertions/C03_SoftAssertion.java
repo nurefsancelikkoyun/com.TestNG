@@ -16,7 +16,7 @@ public class C03_SoftAssertion {
 
             Eger bir test method'u icinde birden fazla assertion varsa
             ilk failed olanda calisma durur
-            sonraki assertion'lar calismamis olur
+            sonraki assertion'lar calismamis olurmmmmmmmmmmmmmmmmm
 
             TestNG bu konuda da bize daha fazla kontrol yetkisi vermistir
             Istersek TestNG assertion failed olsa bile
